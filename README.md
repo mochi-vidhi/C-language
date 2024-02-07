@@ -25,3 +25,5 @@
 - Types of comments in C
 - In C there are two types of comments in C language:
   1 Single-line comment(//)  2 Multi-line comment(/*---*/)
+- [Single line comment](https://github.com/mochi-vidhi/C-language/commit/80674fd42e304fe6f7b240c0c19e80be83233955)
+- [Multi line comment](https://github.com/mochi-vidhi/C-language/commit/80674fd42e304fe6f7b240c0c19e80be83233955#diff-af8c69563645eb506d0e9edcbf61e30a4ad27b9462ec5e438efb5d0be28e8aa0)
