@@ -19,3 +19,9 @@
 - [Print About Your self](https://github.com/mochi-vidhi/C-language/commit/254e40aab9526d74eee3250914df8b6a6dc51edf#diff-0f130f9f3649acfcf1d1008e1eb8a2857747377e6d0098ed676ffed84dd0f87f)
 - [Print Information About Cricket](https://github.com/mochi-vidhi/C-language/commit/254e40aab9526d74eee3250914df8b6a6dc51edf#diff-99c3db292a862a65d535c9a92dc5efd6fc6d0f86d2cfc79553378ec54a6a935e)
 - [Print Information About Your favourite Animal](https://github.com/mochi-vidhi/C-language/commit/254e40aab9526d74eee3250914df8b6a6dc51edf)
+# C Comments
+- The comments in C are human-readable explanations or notes in the source code of a C program.
+- A comment makes the program easier to read and understand.
+- Types of comments in C
+- In C there are two types of comments in C language:
+  1 Single-line comment(//)  2 Multi-line comment(/*---*/)
