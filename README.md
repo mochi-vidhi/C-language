@@ -49,3 +49,7 @@ EX.hard disk,hard@disk
 - [Print Variables](https://github.com/mochi-vidhi/C-language/commit/8236e59ef01779a99b3c4e7c78ba5a8592c51db4)
 - [Computer Hardwares](https://github.com/mochi-vidhi/C-language/commit/8236e59ef01779a99b3c4e7c78ba5a8592c51db4#diff-3584211d466541c6ffa57bd33d723702d1ae21eb2510ea4a36adbe64e984ce6d)
 - [Print height & width](https://github.com/mochi-vidhi/C-language/commit/8236e59ef01779a99b3c4e7c78ba5a8592c51db4)
+# Constants in C
+- The constants in C are the read-only variables whose values cannot be modified once they are declared in the C program.
+- The type of constant can be an integer constant, a floating pointer constant, a string constant, or a character constant.
+- 
