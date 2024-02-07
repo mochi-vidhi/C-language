@@ -41,7 +41,7 @@
 - 3.do not any reserved keyword. EX. data_type if 
 - 4.do not use any special character or space in var_name. EX.hard disk,hard@disk
 - Types of variable:
-- 1 [Global variable]() 2 [Local variable]() 
+-  [Global & Local variable]() 
 - Programs of Variables:
 - [Print Age](https://github.com/mochi-vidhi/C-language/commit/8236e59ef01779a99b3c4e7c78ba5a8592c51db4)
 - [Print Variables](https://github.com/mochi-vidhi/C-language/commit/8236e59ef01779a99b3c4e7c78ba5a8592c51db4)
@@ -51,3 +51,9 @@
 - The constants in C are the read-only variables whose values cannot be modified once they are declared in the C program.
 - The type of constant can be an integer constant, a floating pointer constant, a string constant, or a character constant.
 - [Constants Defination](https://github.com/mochi-vidhi/C-language/commit/2346ca53bde18dcc60e1c33b0d1353d27d0702c8#diff-d2269d599d21c4bdd528c497b8947bb0504a1da00f016f7f98436f818c36add3)
+# Data-types in C
+- 1 Primary DataType/Primitive data-type - int,float,char,double
+- 2 Void DataType - void,No input & output,Empty,NULL.
+- 3 Derived DataType - Pointer,Function,String,Array
+- 4 User Define DataType - Structure,Union,Enum,Typedef
+- [primitive_DataTypes]()
