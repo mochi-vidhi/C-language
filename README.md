@@ -36,14 +36,12 @@
 - ASSIGN VALUE TO VARIABLES:
 - data_type var_name=value; EX int age=18;
 - RULES FOR NAMING VARIABLES:
-- 1.must start with _underscorer or alphabets.
-EX._underscorer var_name or int number
-- 2.not start with number[0-9] or special character.
-EX.data_type 9 or data_type @
-- 3.do not any reserved keyword.
-EX. data_type if 
-- 4.do not use any special character or space in var_name.
-EX.hard disk,hard@disk
+- 1.must start with _underscorer or alphabets. EX._underscorer var_name or int number
+- 2.not start with number[0-9] or special character. EX.data_type 9 or data_type @
+- 3.do not any reserved keyword. EX. data_type if 
+- 4.do not use any special character or space in var_name. EX.hard disk,hard@disk
+- Types of variable:
+- 1 [Global variable]() 2 [Local variable]() 
 - Programs of Variables:
 - [Print Age](https://github.com/mochi-vidhi/C-language/commit/8236e59ef01779a99b3c4e7c78ba5a8592c51db4)
 - [Print Variables](https://github.com/mochi-vidhi/C-language/commit/8236e59ef01779a99b3c4e7c78ba5a8592c51db4)
@@ -52,4 +50,4 @@ EX.hard disk,hard@disk
 # Constants in C
 - The constants in C are the read-only variables whose values cannot be modified once they are declared in the C program.
 - The type of constant can be an integer constant, a floating pointer constant, a string constant, or a character constant.
-- 
+- [Constants Defination](https://github.com/mochi-vidhi/C-language/commit/2346ca53bde18dcc60e1c33b0d1353d27d0702c8#diff-d2269d599d21c4bdd528c497b8947bb0504a1da00f016f7f98436f818c36add3)
