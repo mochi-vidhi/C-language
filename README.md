@@ -66,5 +66,6 @@
 - scanf() : In C programming language, scanf is a function that stands for Scan Formatted String.
 - It is used to read data from stdin (standard input stream i.e. usually keyboard) and then writes the result into the given arguments.
   It accepts character, string, and numeric data from the user using standard input.
-  scanf also uses format specifiers like printf. 
+  scanf also uses format specifiers like printf.
+- [Programs on printf() & scanf()](https://github.com/mochi-vidhi/C-language/commit/742fc88708467aac2765a944c315a4277a6b9ea5)
 
