@@ -25,8 +25,8 @@
 - Types of comments in C
 - In C there are two types of comments in C language:
   1 Single-line comment(//)  2 Multi-line comment(/*---*/)
-- [Single line comment]()
-- [Multi line comment](https://github.com/mochi-vidhi/C-language/commit/80674fd42e304fe6f7b240c0c19e80be83233955#diff-af8c69563645eb506d0e9edcbf61e30a4ad27b9462ec5e438efb5d0be28e8aa0)
+- [Single line comment](./Comments/singleline.c)
+- [Multi line comment](./Comments/Multiline.c)
 # Tokens in C
 - [Types of Tokens](https://www.geeksforgeeks.org/tokens-in-c/?ref=lbp)
 # Variables in C
@@ -43,17 +43,17 @@
 - Types of variable:
 -  [Global & Local variable]() 
 - Programs of Variables:
-- [Print Age](https://github.com/mochi-vidhi/C-language/commit/8236e59ef01779a99b3c4e7c78ba5a8592c51db4)
-- [Print Variables](https://github.com/mochi-vidhi/C-language/commit/8236e59ef01779a99b3c4e7c78ba5a8592c51db4)
-- [Computer Hardwares](https://github.com/mochi-vidhi/C-language/commit/8236e59ef01779a99b3c4e7c78ba5a8592c51db4#diff-3584211d466541c6ffa57bd33d723702d1ae21eb2510ea4a36adbe64e984ce6d)
-- [Print height & width](https://github.com/mochi-vidhi/C-language/commit/8236e59ef01779a99b3c4e7c78ba5a8592c51db4)
+- [Print Age](./Variables/Age.c)
+- [Print Variables](./Variables/PrintValues.c)
+- [Computer Hardwares](./Variables/Hardware_info.c)
+- [Print height & width](./Variables/Height_width.c)
 # Constants in C
 - The constants in C are the read-only variables whose values cannot be modified once they are declared in the C program.
 - The type of constant can be an integer constant, a floating pointer constant, a string constant, or a character constant.
-- [Constants Defination](https://github.com/mochi-vidhi/C-language/commit/2346ca53bde18dcc60e1c33b0d1353d27d0702c8#diff-d2269d599d21c4bdd528c497b8947bb0504a1da00f016f7f98436f818c36add3)
+- [Constants Defination](./Constants/const_defination.c)
 # Data-types in C
-- 1 [Primary DataType/Primitive data-type](https://github.com/mochi-vidhi/C-language/commit/5c63bc22a54eed5b81f896e26fdd3d29e1cab317) - int,float,char,double
-- 2 [Size of DataType](https://github.com/mochi-vidhi/C-language/commit/5c63bc22a54eed5b81f896e26fdd3d29e1cab317)
+- 1 [Primary DataType/Primitive data-type](./DataTypes/primitivedt.c) - int,float,char,double
+- 2 [Size of DataType](./DataTypes/sizeof.c)
 - 2 Void DataType - void,No input & output,Empty,NULL.
 - 3 Derived DataType - Pointer,Function,String,Array
 - 4 User Define DataType - Structure,Union,Enum,Typedef
@@ -67,7 +67,10 @@
 - It is used to read data from stdin (standard input stream i.e. usually keyboard) and then writes the result into the given arguments.
   It accepts character, string, and numeric data from the user using standard input.
   scanf also uses format specifiers like printf.
-- [Programs on printf() & scanf()](https://github.com/mochi-vidhi/C-language/commit/742fc88708467aac2765a944c315a4277a6b9ea5)
+- [](./Input&output/Hardware_comp.c)
+- [Take User input about Society](./Input&output/Society.c)
+- [Take](./Input&output/collage.c)
+- [](./Input&output/student.c)
 # Operators 
 - In C language, operators are symbols that represent operations to be performed on one or more operands.
 - a + b = c  equation / operation
