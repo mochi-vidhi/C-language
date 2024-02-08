@@ -67,10 +67,10 @@
 - It is used to read data from stdin (standard input stream i.e. usually keyboard) and then writes the result into the given arguments.
   It accepts character, string, and numeric data from the user using standard input.
   scanf also uses format specifiers like printf.
-- [](./Input&output/Hardware_comp.c)
+- [Take input from user about computer hardwares ](./Input&output/Hardware_comp.c)
 - [Take User input about Society](./Input&output/Society.c)
-- [Take](./Input&output/collage.c)
-- [](./Input&output/student.c)
+- [Take User input about Collage ](./Input&output/collage.c)
+- [Take User input about Student](./Input&output/student.c)
 # Operators 
 - In C language, operators are symbols that represent operations to be performed on one or more operands.
 - a + b = c  equation / operation
