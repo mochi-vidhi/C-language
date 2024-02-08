@@ -74,10 +74,10 @@
 - a, b, c  operand
 - +, =    Operators
 - Types of Operators
-- [1. Arithmatic Operators]()
-- [2. Assignment Operators]()
-- [3. Comparison Operators]()
-- [4. Bitwise Operators]()
-- [5. Increment / Decrement Operators]()
-- [6. Logical Operators]()
+- [1. Arithmatic Operators](https://github.com/mochi-vidhi/C-language/commit/14f068a83506081b18163bdf984cf0a3c04b7108#diff-13e2ec08e5f0759b3f7a9da3b67a9e7d88ad6b87717dc75346440b89bc5b4ec1)
+- [2. Assignment Operators](https://github.com/mochi-vidhi/C-language/commit/14f068a83506081b18163bdf984cf0a3c04b7108#diff-f10ad070b959fe8c85db88e3a265bce9daf108de2f6108228dfbc3feb258804e)
+- [3. Relational Operators](https://github.com/mochi-vidhi/C-language/commit/14f068a83506081b18163bdf984cf0a3c04b7108)
+- [4. Bitwise Operators](https://github.com/mochi-vidhi/C-language/commit/14f068a83506081b18163bdf984cf0a3c04b7108#diff-312d6edefb0f71b664ac88f583591a38fb58c5ad114ad15d7182d9fe64ee29af)
+- [5. Conditional Operators](https://github.com/mochi-vidhi/C-language/commit/14f068a83506081b18163bdf984cf0a3c04b7108#diff-340b2f484def86fd8d0fd5b6e332471b7a158d36cdd0188979c087164efea6c4)
+- [6. Logical Operators](https://github.com/mochi-vidhi/C-language/commit/14f068a83506081b18163bdf984cf0a3c04b7108#diff-7e9764ef7f854d8d3fe5787c0e67e2c7495efbf9f88ea54d7adf700473b6e06a)
 
