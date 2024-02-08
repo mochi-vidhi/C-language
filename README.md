@@ -52,8 +52,9 @@
 - The type of constant can be an integer constant, a floating pointer constant, a string constant, or a character constant.
 - [Constants Defination](https://github.com/mochi-vidhi/C-language/commit/2346ca53bde18dcc60e1c33b0d1353d27d0702c8#diff-d2269d599d21c4bdd528c497b8947bb0504a1da00f016f7f98436f818c36add3)
 # Data-types in C
-- 1 Primary DataType/Primitive data-type - int,float,char,double
+- 1 [Primary DataType/Primitive data-type](https://github.com/mochi-vidhi/C-language/commit/5c63bc22a54eed5b81f896e26fdd3d29e1cab317) - int,float,char,double
+- 2 [Size of DataType](https://github.com/mochi-vidhi/C-language/commit/5c63bc22a54eed5b81f896e26fdd3d29e1cab317)
 - 2 Void DataType - void,No input & output,Empty,NULL.
 - 3 Derived DataType - Pointer,Function,String,Array
 - 4 User Define DataType - Structure,Union,Enum,Typedef
-- [primitive_DataTypes]()
+
