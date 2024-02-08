@@ -87,10 +87,9 @@
 - The conditional statements (also known as decision control structures) such as if, if else, switch, etc. are used for decision-making purposes in C programs.
 - Need of Conditional Statements:
 - There come situations in real life when we need to make some decisions and based on these decisions, we decide what should we do next.
-- [if Statement]()
-- [if-else Statement]()
-- [Nested if Statement]()
-- [if-else-if Ladder]()
-- [switch Statement]()
+- [if Statement](./DecisionMaking/If_Statements)
+- [if-else Statement](./DecisionMaking/If&Else)
+- [if-else-if Ladder](./DecisionMaking/if_else_if_ladder)
+- [switch Statement](./DecisionMaking/SwitchCase)
 - [Jump Statements]() break,continue,goto,return
 
