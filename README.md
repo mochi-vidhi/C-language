@@ -80,4 +80,14 @@
 - [4. Bitwise Operators](https://github.com/mochi-vidhi/C-language/commit/14f068a83506081b18163bdf984cf0a3c04b7108#diff-312d6edefb0f71b664ac88f583591a38fb58c5ad114ad15d7182d9fe64ee29af)
 - [5. Conditional Operators](https://github.com/mochi-vidhi/C-language/commit/14f068a83506081b18163bdf984cf0a3c04b7108#diff-340b2f484def86fd8d0fd5b6e332471b7a158d36cdd0188979c087164efea6c4)
 - [6. Logical Operators](https://github.com/mochi-vidhi/C-language/commit/14f068a83506081b18163bdf984cf0a3c04b7108#diff-7e9764ef7f854d8d3fe5787c0e67e2c7495efbf9f88ea54d7adf700473b6e06a)
+# Decision Making / Conditional statements 
+- The conditional statements (also known as decision control structures) such as if, if else, switch, etc. are used for decision-making purposes in C programs.
+- Need of Conditional Statements:
+- There come situations in real life when we need to make some decisions and based on these decisions, we decide what should we do next.
+- [if Statement]()
+- [if-else Statement]()
+- [Nested if Statement]()
+- [if-else-if Ladder]()
+- [switch Statement]()
+- [Jump Statements]() break,continue,goto,return
 
