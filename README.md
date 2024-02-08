@@ -57,4 +57,14 @@
 - 2 Void DataType - void,No input & output,Empty,NULL.
 - 3 Derived DataType - Pointer,Function,String,Array
 - 4 User Define DataType - Structure,Union,Enum,Typedef
+# Basic Input and Output in C
+- C language has standard libraries that allow input and output in a program.
+- The stdio.h or standard input output library in C that has methods for input and output.
+- [Formate specifiers](https://www.geeksforgeeks.org/format-specifiers-in-c/?ref=lbp)
+- printf() : In C language, printf() function is used to print formatted output to the standard output stdout (which is generally the console screen).
+  The printf function is a part of the C standard library <stdio.h> and it can allow formatting the output in numerous ways.
+- scanf() : In C programming language, scanf is a function that stands for Scan Formatted String.
+- It is used to read data from stdin (standard input stream i.e. usually keyboard) and then writes the result into the given arguments.
+  It accepts character, string, and numeric data from the user using standard input.
+  scanf also uses format specifiers like printf. 
 
