@@ -1,4 +1,3 @@
-// C program to illustrate the arithmatic operators
 #include <stdio.h>
 int main(){
 	int a = 25, b = 5;
