@@ -68,4 +68,16 @@
   It accepts character, string, and numeric data from the user using standard input.
   scanf also uses format specifiers like printf.
 - [Programs on printf() & scanf()](https://github.com/mochi-vidhi/C-language/commit/742fc88708467aac2765a944c315a4277a6b9ea5)
+# Operators 
+- In C language, operators are symbols that represent operations to be performed on one or more operands.
+- a + b = c  equation / operation
+- a, b, c  operand
+- +, =    Operators
+- Types of Operators
+- [1. Arithmatic Operators]()
+- [2. Assignment Operators]()
+- [3. Comparison Operators]()
+- [4. Bitwise Operators]()
+- [5. Increment / Decrement Operators]()
+- [6. Logical Operators]()
 
