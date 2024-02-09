@@ -97,8 +97,8 @@
 - A loop statement allows programmers to execute a statement or group of statements multiple times without repetition of code.
 - There are mainly two types of loops in C Programming:
 - Entry Controlled loops: In Entry controlled loops the test condition is checked before entering the main body of the loop.
-- 1 [For Loop]() & 2 [While Loop]() is Entry-controlled loops.
+- 1 [For Loop](./Loops/for-loop) & 2 [While Loop](./Loops/While-loop) is Entry-controlled loops.
 - Exit Controlled loops: In Exit controlled loops the test condition is evaluated at the end of the loop body.
   The loop body will execute at least once, irrespective of whether the condition  is true or false.
--  1 [do-while Loop]() is Exit Controlled loop.
+-  1 [do-while Loop](./Loops/Do-while-loop) is Exit Controlled loop.
 
