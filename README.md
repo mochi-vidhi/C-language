@@ -105,3 +105,7 @@
 - Array in C is one of the most used data structures in C programming. It is a simple and fast way of storing multiple values under a single name.
 - An array in C is a fixed-size collection of similar data items stored in contiguous memory locations.
 - It can be used to store the collection of primitive data types such as int, char, float, etc., and also derived and user-defined data types such as pointers, structures, etc.
+- Types of Arrays:
+- 1 [1D-Arrays]()
+- 2 [2D-Arrays]()
+- 3 [3D-Arrays]()
