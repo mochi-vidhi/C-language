@@ -106,6 +106,6 @@
 - An array in C is a fixed-size collection of similar data items stored in contiguous memory locations.
 - It can be used to store the collection of primitive data types such as int, char, float, etc., and also derived and user-defined data types such as pointers, structures, etc.
 - Types of Arrays:
-- 1 [1D-Arrays]()
+- 1 [1D-Arrays](./Arrays/1D-Arrays)
 - 2 [2D-Arrays]()
 - 3 [3D-Arrays]()
